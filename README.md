@@ -46,6 +46,20 @@
 
 ###
 
+<h2 align="center">Tahmina Tanjida's GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahminatanjidamiti&show_icons=true&theme=radical" alt="Tahmina's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahminatanjidamiti&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahminatanjidamiti&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+###
+
 <h2 align="center">Connect with me</h2>
 
 ###
