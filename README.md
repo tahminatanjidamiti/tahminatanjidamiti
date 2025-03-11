@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="center">Tahmina Tanjida's GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 ###
 
