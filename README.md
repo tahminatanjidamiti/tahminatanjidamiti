@@ -1,8 +1,8 @@
 <div align="center">
   <img height="200" src="https://i.ibb.co.com/27VfrZ4G/Your-paragraph-text-2.png"  />
 </div>
-
-# 💫 About Me:
+<div align="center">
+  # 💫 About Me:
 I am a business graduate with a strong blend of creativity and strategic thinking. With certifications in web development, product management, and career development, I possess the essential skills and a passion for innovation. In my projects, I have developed user-friendly and responsive websites that provide dynamic front-end experiences. By utilizing compelling code, I create visually appealing designs that engage visitors and ensure a memorable online journey.<br><br>✨ Creating bugs since 2024.<br>📚 I'm currently learning Next.js<br>🎯 Goals: Develop a web application that simplifies everyday tasks.<br>🎲 Fun fact: I talk to my code…!<br><br>
 
 
@@ -21,5 +21,7 @@ I am a business graduate with a strong blend of creativity and strategic thinkin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tahminatanjidamiti&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
