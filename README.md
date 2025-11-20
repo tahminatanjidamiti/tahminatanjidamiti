@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/yFyWKH7X/Your-paragraph-text-1.png"  />
+  <img height="200" src="https://i.ibb.co.com/27VfrZ4G/Your-paragraph-text-2.png"  />
 </div>
 
 # 💫 About Me:
