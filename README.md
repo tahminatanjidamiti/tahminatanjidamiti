@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/27VfrZ4G/Your-paragraph-text-2.png"  />
+  <img height="200" src="https://i.ibb.co.com/sdDYgw0H/cover-github-ldi.png"  />
 </div>
 
 # 💫 About Me:
