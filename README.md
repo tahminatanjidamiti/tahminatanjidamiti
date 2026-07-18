@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hello, I am **Tahmina Tanjida Miti**, a business graduate with a strong blend of creativity and strategic thinking. With certifications in web development, product management, and career development, I possess the essential skills and a passion for innovation. In my projects, I have developed user-friendly and responsive websites that provide dynamic front-end experiences. By utilizing compelling code, I create visually appealing designs that engage visitors and ensure a memorable online journey.<br><br>✨ Creating bugs since 2024.<br>📚 I'm currently learning Next.js<br>🎯 Goals: Develop a web application that simplifies everyday tasks.<br>🎲 Fun fact: I talk to my code…!<br><br>
+Hello, I am **Tahmina Tanjida Miti**, a full-stack developer who builds role-based dashboards and secure payment workflows. Over the past year, I’ve built and deployed three live applications from scratch. My recent work includes an event platform built on Prisma and PostgreSQL, featuring analytics dashboards, Stripe integration, social networking, and AI-driven suggestions. Alongside this, I developed a ride-booking application powered by MongoDB, complete with live location tracking, SSLCommerz payments, automated PDF invoicing via email, and Cloudinary media uploads. From designing database schemas to crafting responsive UIs in React and TypeScript, I handle everything needed to take a project to production.<br><br>✨ Creating bugs since 2024.<br>📚 I'm currently learning Next.js<br>🎯 Goals: Develop a web application that simplifies everyday tasks.<br>🎲 Fun fact: I talk to my code…!<br><br>
 
 
 ## 🌐 Socials:
